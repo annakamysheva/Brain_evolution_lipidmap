@@ -2,3 +2,4 @@
 
 R scriptes for analysis performed in [Laboratory of E.Khrameeva](https://faculty.skoltech.ru/people/ekaterinakhrameeva) at [Skoltech](https://www.skoltech.ru/).
 This study aimed to determin specific trait in the organization of human brain lipidom which occured during its evolution and separated human from other primates. 
+We are also looking for molecular mechanism underlying this changes by parforming comparative analysis of transcriptomics. 
